@@ -1,8 +1,8 @@
 {
   "folders": [
-	{
-		"path": ".."
-	}
-],
+    {
+      "path": "../../../Fullstacks/mern-social-media"
+    }
+  ],
   "settings": {}
 }
